@@ -12,7 +12,7 @@ This notebook aims to demonstrate my bridge knowledge between Ophthalmology and 
 
 # Reference
 
-If you use this library and love it, use this to cite it 🤗
+If you use this library and like it, use this to cite it
 
 ```tex
 @misc{cvc_felipe,
