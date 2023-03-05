@@ -17,6 +17,9 @@ https://github.com/ankonzoid/artificio/tree/master/image_retrieval
 ## Anomaly Detection - GAN
 https://github.com/openvinotoolkit/anomalib
 
+## TRAINED GAN DOWNLOAD MODEL AND REPORTS
+https://drive.google.com/drive/folders/1c1gcjQ6Mqg5dLQ8ZyuLXIya8Lwnom7Z2?usp=sharing
+
 
 
 # Reference
